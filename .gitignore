@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.local
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+repomix-output.txt
